@@ -1,0 +1,12 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\8_3\bin\Debug\8_3.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\bin\Debug\8_3.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\bin\Debug\8_3.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\bin\Debug\8_3.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\bin\Debug\8_3.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\8_3.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\_8_3.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\_8_3.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\8_3.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\8_3.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\8_3.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\8_3\8_3\obj\Debug\8_3.pdb

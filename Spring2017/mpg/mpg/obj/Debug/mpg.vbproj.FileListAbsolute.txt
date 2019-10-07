@@ -1,0 +1,12 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\mpg\bin\Debug\mpg.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\bin\Debug\mpg.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\bin\Debug\mpg.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\bin\Debug\mpg.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\bin\Debug\mpg.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\mpg\mpg\obj\Debug\mpg.pdb

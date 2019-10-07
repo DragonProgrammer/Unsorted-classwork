@@ -1,0 +1,14 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\question\bin\Debug\question.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\bin\Debug\question.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\bin\Debug\question.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\bin\Debug\question.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\bin\Debug\question.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.frmCView.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.frmQuest.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.questionlist.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\question\question\obj\Debug\question.pdb

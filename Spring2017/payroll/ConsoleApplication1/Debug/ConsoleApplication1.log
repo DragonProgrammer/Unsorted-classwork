@@ -1,0 +1,4 @@
+﻿  payroll.cpp
+c:\users\mike\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\payroll.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConsoleApplication1.vcxproj -> c:\users\mike\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> c:\users\mike\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

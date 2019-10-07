@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mike\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\source.cpp(54): warning C4101: 'index': unreferenced local variable
+c:\users\mike\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\source.cpp(139): warning C4715: 'Set::getElement': not all control paths return a value
+  ConsoleApplication11.vcxproj -> C:\Users\Mike\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> C:\Users\Mike\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.pdb (Full PDB)

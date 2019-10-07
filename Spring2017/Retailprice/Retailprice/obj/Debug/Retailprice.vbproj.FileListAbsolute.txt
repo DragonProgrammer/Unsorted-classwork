@@ -1,0 +1,11 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\bin\Debug\Retailprice.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\bin\Debug\Retailprice.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\bin\Debug\Retailprice.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\bin\Debug\Retailprice.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\Retailprice.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\Retailprice.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\Retailprice.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\Retailprice.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Retailprice\Retailprice\obj\Debug\Retailprice.pdb

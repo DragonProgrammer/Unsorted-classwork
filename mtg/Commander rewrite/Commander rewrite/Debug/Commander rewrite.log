@@ -1,0 +1,5 @@
+﻿  rewrite.cpp
+c:\users\mike\documents\visual studio 2015\projects\commander rewrite\commander rewrite\rewrite.cpp(131): warning C4101: 'lifechan': unreferenced local variable
+c:\users\mike\documents\visual studio 2015\projects\commander rewrite\commander rewrite\rewrite.cpp(324): warning C4101: 'winner': unreferenced local variable
+  Commander rewrite.vcxproj -> c:\users\mike\documents\visual studio 2015\Projects\Commander rewrite\Debug\Commander rewrite.exe
+  Commander rewrite.vcxproj -> c:\users\mike\documents\visual studio 2015\Projects\Commander rewrite\Debug\Commander rewrite.pdb (Full PDB)

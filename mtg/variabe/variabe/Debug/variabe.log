@@ -1,0 +1,4 @@
+﻿  tracker.cpp
+c:\users\mike\documents\visual studio 2015\projects\variabe\variabe\tracker.cpp(57): warning C4101: 'lifechan': unreferenced local variable
+  variabe.vcxproj -> C:\Users\Mike\documents\visual studio 2015\Projects\variabe\Debug\variabe.exe
+  variabe.vcxproj -> C:\Users\Mike\documents\visual studio 2015\Projects\variabe\Debug\variabe.pdb (Full PDB)

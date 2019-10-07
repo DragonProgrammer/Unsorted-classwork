@@ -1,0 +1,15 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\bin\Debug\Mathtutor.exe.config
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\bin\Debug\Mathtutor.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\bin\Debug\Mathtutor.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\bin\Debug\Mathtutor.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\Mathtutor\obj\Debug\Mathtutor.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Mathtutor\Mathtutor\bin\Debug\Mathtutor.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Mathtutor\Mathtutor\obj\Debug\Mathtutor.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Mathtutor\Mathtutor\obj\Debug\Mathtutor.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Spring2017\Mathtutor\Mathtutor\obj\Debug\Mathtutor.pdb

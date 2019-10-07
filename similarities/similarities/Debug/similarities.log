@@ -1,0 +1,4 @@
+﻿  sim.cpp
+c:\users\mike\documents\visual studio 2015\projects\similarities\similarities\sim.cpp(159): warning C4101: 'cosine': unreferenced local variable
+  similarities.vcxproj -> c:\users\mike\documents\visual studio 2015\Projects\similarities\Debug\similarities.exe
+  similarities.vcxproj -> c:\users\mike\documents\visual studio 2015\Projects\similarities\Debug\similarities.pdb (Full PDB)

@@ -1,0 +1,16 @@
+dragon
+goblin
+elf
+soldier
+wizard
+zombie
+shaman
+human
+drake
+kavu
+sliver
+legend
+spirit
+druid
+knight
+vampire
